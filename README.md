@@ -259,7 +259,7 @@ Before deploying your own version:
 
 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a Custom Open Source License (MIT-style without commercial selling rights) - see the [LICENSE](LICENSE) file for details.
 
 ⚠️ Disclaimers
 
