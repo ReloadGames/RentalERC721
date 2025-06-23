@@ -284,6 +284,8 @@ For questions and support:
 - [Solidity Documentation](https://docs.soliditylang.org/)
 - [EIP-721 Standard](https://eips.ethereum.org/EIPS/eip-721)
 
+Disclaimer: You use this at your own risk, the Contract has an extensive audit via Sec3 however we bare no responsibility for your own implementation of the code in this repo. 
+
 ---
 
 **Built with ❤️ using OpenZeppelin, Hardhat, and Solidity** 
