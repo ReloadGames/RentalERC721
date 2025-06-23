@@ -3,7 +3,7 @@ const { Interface } = require("ethers"); // Make sure ethers v6 is installed in 
 const ShinseiNFT_ABI = require('./artifacts/contracts/ShinseiNFT.sol/ShinseiNFT.json').abi;
 
 // Address of your verified ShinseiNFT implementation contract
-const logicAddress = "0x061adf0f9ffca9d042abd2a64ec0aed812e4df60";
+const logicAddress = "";
 
 // Arguments used for the initialize function of ShinseiNFT
 const initializeArgs = [
